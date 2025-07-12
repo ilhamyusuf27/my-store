@@ -119,6 +119,27 @@ useHead({
       content:
         "Discover our amazing products at MyStore. Find the best deals and quality items.",
     },
+    {
+      property: "og:title",
+      content: "MyStore - Toko Online Terbaik",
+    },
+    {
+      property: "og:description",
+      content:
+        "Temukan beragam produk menarik dengan penawaran terbaik hanya di MyStore. Belanja mudah, aman, dan cepat!",
+    },
+    {
+      property: "og:image",
+      content: "https://localhost:3000/favicon.ico",
+    },
+    {
+      property: "og:url",
+      content: "https://localhost:3000/",
+    },
+    {
+      property: "og:type",
+      content: "website",
+    },
   ],
 });
 
