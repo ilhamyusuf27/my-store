@@ -1,7 +1,6 @@
 import { useAsyncData } from "#imports";
 import type { Product } from "~/types";
 
-// Tipe data untuk parameter
 interface FetchParams {
   page: number;
   limit: number;
