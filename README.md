@@ -25,7 +25,7 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan proyek ini di lingkungan lo
 
     ```bash
     git clone https://github.com/ilhamyusuf27/my-store.git
-    cd nama-repo-kamu
+    cd my-store
     ```
 
 2.  **Instal dependensi menggunakan pnpm:**
