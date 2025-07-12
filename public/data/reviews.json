@@ -1,0 +1,123 @@
+{
+  "1": [
+    {
+      "id": "review-1",
+      "author": "Ahmad",
+      "avatar": "A",
+      "rating": 4,
+      "variant": "Black Red",
+      "comment": "Kualitasnya bagus, pengiriman juga cepat. Sangat direkomendasikan!",
+      "createdAt": "2025-07-10T10:00:00Z"
+    },
+    {
+      "id": "review-2",
+      "author": "Budi",
+      "avatar": "B",
+      "rating": 5,
+      "variant": "White Blue",
+      "comment": "Desainnya keren banget, pas di tangan. Worth it!",
+      "createdAt": "2025-07-11T11:20:00Z"
+    },
+    {
+      "id": "review-4",
+      "author": "Dewi",
+      "avatar": "D",
+      "rating": 5,
+      "variant": "Black Red",
+      "comment": "Nyaman sekali dipakai untuk lari pagi. Empuk dan ringan.",
+      "createdAt": "2025-07-11T14:15:00Z"
+    },
+    {
+      "id": "review-5",
+      "author": "Eko",
+      "avatar": "E",
+      "rating": 4,
+      "variant": "White Blue",
+      "comment": "Warnanya sedikit lebih pudar dari gambar, tapi secara keseluruhan oke.",
+      "createdAt": "2025-07-11T16:45:00Z"
+    },
+    {
+      "id": "review-6",
+      "author": "Fajar",
+      "avatar": "F",
+      "rating": 5,
+      "variant": "Black Red",
+      "comment": "Keren, sesuai ekspektasi. Packaging aman dan rapi.",
+      "createdAt": "2025-07-12T08:05:00Z"
+    },
+    {
+      "id": "review-7",
+      "author": "Gita",
+      "avatar": "G",
+      "rating": 3,
+      "variant": "White Blue",
+      "comment": "Ukurannya agak kekecilan sedikit, mungkin harus upsize.",
+      "createdAt": "2025-07-12T09:00:00Z"
+    },
+    {
+      "id": "review-8",
+      "author": "Hendra",
+      "avatar": "H",
+      "rating": 5,
+      "variant": "Black Red",
+      "comment": "Produk original, tidak ada cacat. Mantap!",
+      "createdAt": "2025-07-12T10:30:00Z"
+    },
+    {
+      "id": "review-9",
+      "author": "Indah",
+      "avatar": "I",
+      "rating": 4,
+      "variant": "White Blue",
+      "comment": "Bagus, tapi butuh beberapa hari untuk pengiriman.",
+      "createdAt": "2025-07-12T11:10:00Z"
+    },
+    {
+      "id": "review-10",
+      "author": "Joko",
+      "avatar": "J",
+      "rating": 5,
+      "variant": "Black Red",
+      "comment": "Langganan di toko ini, tidak pernah mengecewakan.",
+      "createdAt": "2025-07-12T11:45:00Z"
+    },
+    {
+      "id": "review-11",
+      "author": "Kartika",
+      "avatar": "K",
+      "rating": 5,
+      "variant": "White Blue",
+      "comment": "Cakep banget sepatunya, jadi pusat perhatian.",
+      "createdAt": "2025-07-12T12:00:00Z"
+    },
+    {
+      "id": "review-12",
+      "author": "Lina",
+      "avatar": "L",
+      "rating": 4,
+      "variant": "Black Red",
+      "comment": "Solnya nyaman, cocok buat jalan jauh.",
+      "createdAt": "2025-07-12T12:30:00Z"
+    },
+    {
+      "id": "review-13",
+      "author": "Mega",
+      "avatar": "M",
+      "rating": 5,
+      "variant": "White Blue",
+      "comment": "Pembelian kedua, selalu puas dengan produknya.",
+      "createdAt": "2025-07-12T13:00:00Z"
+    }
+  ],
+  "2": [
+    {
+      "id": "review-3",
+      "author": "Citra",
+      "avatar": "C",
+      "rating": 5,
+      "variant": "Black",
+      "comment": "Keren Sepatunya.",
+      "createdAt": "2025-07-12T09:30:00Z"
+    }
+  ]
+}

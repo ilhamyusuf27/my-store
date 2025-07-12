@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Nike Air Max 270",
+    "price": 2279000,
+    "image": "/images/products/nike-air-max-270-1.png",
+    "discount": 0,
+    "variants": [
+      { "id": 1, "name": "8", "stock": 1 },
+      { "id": 2, "name": "9", "stock": 1 },
+      { "id": 3, "name": "10", "stock": 0 }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Adidas Ultraboost 5",
+    "price": 3000000,
+    "image": "/images/products/ultraboost-5-2.png",
+    "discount": 10,
+    "variants": [
+      { "id": 4, "name": "8", "stock": 1 },
+      { "id": 5, "name": "9", "stock": 1 },
+      { "id": 6, "name": "10", "stock": 0 }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Puma Suede Classic",
+    "price": 1299000,
+    "image": "/images/products/puma-suede-1.png",
+    "discount": 5,
+    "variants": [
+      { "id": 7, "name": "8", "stock": 1 },
+      { "id": 8, "name": "9", "stock": 1 },
+      { "id": 9, "name": "11", "stock": 1 }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "New Balance 574",
+    "price": 1599000,
+    "image": "/images/products/nb-574-1.png",
+    "discount": 0,
+    "variants": [
+      { "id": 10, "name": "8", "stock": 0 },
+      { "id": 11, "name": "9", "stock": 1 },
+      { "id": 12, "name": "10", "stock": 1 }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Reebok Classic Leather",
+    "price": 1199000,
+    "image": "/images/products/reebok-classic-1.png",
+    "discount": 15,
+    "variants": [
+      { "id": 13, "name": "8", "stock": 1 },
+      { "id": 14, "name": "9", "stock": 1 },
+      { "id": 15, "name": "10", "stock": 1 }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Vans Old Skool",
+    "price": 999000,
+    "image": "/images/products/vans-old-skool-1.png",
+    "discount": 0,
+    "variants": [
+      { "id": 16, "name": "8", "stock": 1 },
+      { "id": 17, "name": "9", "stock": 0 },
+      { "id": 18, "name": "10", "stock": 1 }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Converse Chuck Taylor All Star",
+    "price": 899000,
+    "image": "/images/products/converse-ctas-1.png",
+    "discount": 0,
+    "variants": [
+      { "id": 19, "name": "8", "stock": 1 },
+      { "id": 20, "name": "9", "stock": 1 },
+      { "id": 21, "name": "10", "stock": 1 }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Asics Gel-Kayano 28",
+    "price": 2599000,
+    "image": "/images/products/asics-gel-1.png",
+    "discount": 20,
+    "variants": [
+      { "id": 22, "name": "9", "stock": 1 },
+      { "id": 23, "name": "10", "stock": 1 },
+      { "id": 24, "name": "11", "stock": 0 }
+    ]
+  }
+]

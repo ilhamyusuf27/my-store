@@ -1,0 +1,274 @@
+[
+  {
+    "id": "p1",
+    "name": "Nike Air Max 270",
+    "slug": "nike-air-max-270",
+    "brand": "Nike",
+    "category": "Shoes",
+    "description": "The Nike Air Max 270 delivers visible cushioning under every step with updated Air Max cushioning.",
+    "price": 2279000,
+    "discount": 0,
+    "stock": 100,
+    "rating": 4.5,
+    "thumbnail": "/images/products/nike-air-max-270-1.png",
+    "images": [
+      "/images/products/nike-air-max-270-1.png",
+      "/images/products/nike-air-max-270-2.png",
+      "/images/products/nike-air-max-270-3.png"
+    ],
+    "variants": {
+      "colors": [
+        { "id": "c1", "name": "Core Black", "value": "#000000" },
+        { "id": "c2", "name": "Cloud White", "value": "#FFFFFF" }
+      ],
+      "sizes": [
+        { "id": "s1", "name": "8", "inStock": true },
+        { "id": "s2", "name": "9", "inStock": true },
+        { "id": "s3", "name": "10", "inStock": false }
+      ]
+    },
+    "seo": {
+      "title": "Nike Air Max 270 - Premium Comfort Shoes",
+      "description": "Experience ultimate comfort with Nike Air Max 270. Features visible Air cushioning for all-day comfort.",
+      "keywords": ["Nike", "Air Max", "Sneakers", "Comfort Shoes"]
+    }
+  },
+  {
+    "id": "p2",
+    "name": "Adidas Ultraboost 5",
+    "slug": "adidas-ultraboost-5",
+    "brand": "Adidas",
+    "category": "Shoes",
+    "description": "Experience epic energy with the Ultraboost 5. Responsive boost cushioning and a supportive fit.",
+    "price": 3000000,
+    "discount": 10,
+    "stock": 75,
+    "rating": 4.8,
+    "thumbnail": "/images/products/ultraboost-5-2.png",
+    "images": [
+      "/images/products/ultraboost-5-1.png",
+      "/images/products/ultraboost-5-2.png",
+      "/images/products/ultraboost-5-3.png"
+    ],
+    "variants": {
+      "colors": [
+        { "id": "c1", "name": "Core Black", "value": "#000000" },
+        { "id": "c2", "name": "Cloud White", "value": "#FFFFFF" }
+      ],
+      "sizes": [
+        { "id": "s1", "name": "8", "inStock": true },
+        { "id": "s2", "name": "9", "inStock": true },
+        { "id": "s3", "name": "10", "inStock": false }
+      ]
+    },
+    "seo": {
+      "title": "Adidas Ultraboost 21 - Premium Running Shoes",
+      "description": "Maximum comfort and energy return with Adidas Ultraboost 21.",
+      "keywords": ["Adidas", "Ultraboost", "Running", "Premium Shoes"]
+    }
+  },
+  {
+    "id": "p3",
+    "name": "Puma Suede Classic",
+    "slug": "puma-suede-classic",
+    "brand": "Puma",
+    "category": "Shoes",
+    "description": "The PUMA Suede is a classic for a reason. Iconic style with a comfortable fit and feel.",
+    "price": 1299000,
+    "discount": 5,
+    "stock": 120,
+    "rating": 4.6,
+    "thumbnail": "/images/products/puma-suede-1.png",
+    "images": [
+      "/images/products/puma-suede-1.png",
+      "/images/products/puma-suede-2.png",
+      "/images/products/puma-suede-3.png"
+    ],
+    "variants": {
+      "colors": [
+        { "id": "c1", "name": "Cabernet", "value": "#5D0F1A" },
+        { "id": "c3", "name": "Navy Blue", "value": "#000080" }
+      ],
+      "sizes": [
+        { "id": "s1", "name": "8", "inStock": true },
+        { "id": "s2", "name": "9", "inStock": true },
+        { "id": "s4", "name": "11", "inStock": true }
+      ]
+    },
+    "seo": {
+      "title": "Puma Suede Classic - Timeless Style",
+      "description": "Get the classic and timeless look with the Puma Suede Classic. Perfect for any occasion.",
+      "keywords": ["Puma", "Suede", "Classic", "Lifestyle"]
+    }
+  },
+  {
+    "id": "p4",
+    "name": "New Balance 574",
+    "slug": "new-balance-574",
+    "brand": "New Balance",
+    "category": "Shoes",
+    "description": "The 574 was built to be a reliable shoe that could do a lot of different things well rather than as a platform for revolutionary technology.",
+    "price": 1599000,
+    "discount": 0,
+    "stock": 80,
+    "rating": 4.7,
+    "thumbnail": "/images/products/nb-574-1.png",
+    "images": [
+      "/images/products/nb-574-1.png",
+      "/images/products/nb-574-2.png",
+      "/images/products/nb-574-3.png"
+    ],
+    "variants": {
+      "colors": [
+        { "id": "c4", "name": "Classic Grey", "value": "#808080" },
+        { "id": "c5", "name": "Burgundy", "value": "#800020" }
+      ],
+      "sizes": [
+        { "id": "s1", "name": "8", "inStock": false },
+        { "id": "s2", "name": "9", "inStock": true },
+        { "id": "s3", "name": "10", "inStock": true }
+      ]
+    },
+    "seo": {
+      "title": "New Balance 574 - Iconic and Versatile",
+      "description": "Discover the iconic New Balance 574, a versatile sneaker for everyday wear.",
+      "keywords": ["New Balance", "574", "Classic", "Sneakers"]
+    }
+  },
+  {
+    "id": "p5",
+    "name": "Reebok Classic Leather",
+    "slug": "reebok-classic-leather",
+    "brand": "Reebok",
+    "category": "Shoes",
+    "description": "A timeless design that's always in style. Soft leather upper for a comfortable fit.",
+    "price": 1199000,
+    "discount": 15,
+    "stock": 90,
+    "rating": 4.4,
+    "thumbnail": "/images/products/reebok-classic-1.png",
+    "images": [
+      "/images/products/reebok-classic-1.png",
+      "/images/products/reebok-classic-2.png",
+      "/images/products/reebok-classic-3.png"
+    ],
+    "variants": {
+      "colors": [
+        { "id": "c2", "name": "Cloud White", "value": "#FFFFFF" },
+        { "id": "c1", "name": "Core Black", "value": "#000000" }
+      ],
+      "sizes": [
+        { "id": "s1", "name": "8", "inStock": true },
+        { "id": "s2", "name": "9", "inStock": true },
+        { "id": "s3", "name": "10", "inStock": true }
+      ]
+    },
+    "seo": {
+      "title": "Reebok Classic Leather - Simple and Stylish",
+      "description": "Step out in iconic style with the Reebok Classic Leather shoes.",
+      "keywords": ["Reebok", "Classic Leather", "Retro", "Trainers"]
+    }
+  },
+  {
+    "id": "p6",
+    "name": "Vans Old Skool",
+    "slug": "vans-old-skool",
+    "brand": "Vans",
+    "category": "Shoes",
+    "description": "The Old Skool, Vans' classic skate shoe and first to bare the iconic sidestripe.",
+    "price": 999000,
+    "discount": 0,
+    "stock": 150,
+    "rating": 4.9,
+    "thumbnail": "/images/products/vans-old-skool-1.png",
+    "images": [
+      "/images/products/vans-old-skool-1.png",
+      "/images/products/vans-old-skool-2.png",
+      "/images/products/vans-old-skool-3.png"
+    ],
+    "variants": {
+      "colors": [
+        { "id": "c1", "name": "Core Black", "value": "#000000" },
+        { "id": "c6", "name": "Racing Red", "value": "#FF0000" }
+      ],
+      "sizes": [
+        { "id": "s1", "name": "8", "inStock": true },
+        { "id": "s2", "name": "9", "inStock": false },
+        { "id": "s3", "name": "10", "inStock": true }
+      ]
+    },
+    "seo": {
+      "title": "Vans Old Skool - The Original Classic",
+      "description": "The iconic Vans Old Skool skate shoe. A staple for any wardrobe.",
+      "keywords": ["Vans", "Old Skool", "Skate", "Sidestripe"]
+    }
+  },
+  {
+    "id": "p7",
+    "name": "Converse Chuck Taylor All Star",
+    "slug": "converse-chuck-taylor-all-star",
+    "brand": "Converse",
+    "category": "Shoes",
+    "description": "The one and only. The iconic Chuck Taylor All Star, a symbol of self-expression.",
+    "price": 899000,
+    "discount": 0,
+    "stock": 200,
+    "rating": 4.8,
+    "thumbnail": "/images/products/converse-ctas-1.png",
+    "images": [
+      "/images/products/converse-ctas-1.png",
+      "/images/products/converse-ctas-2.png",
+      "/images/products/converse-ctas-3.png"
+    ],
+    "variants": {
+      "colors": [
+        { "id": "c1", "name": "Core Black", "value": "#000000" },
+        { "id": "c2", "name": "Optical White", "value": "#FFFFFF" }
+      ],
+      "sizes": [
+        { "id": "s1", "name": "8", "inStock": true },
+        { "id": "s2", "name": "9", "inStock": true },
+        { "id": "s3", "name": "10", "inStock": true }
+      ]
+    },
+    "seo": {
+      "title": "Converse Chuck Taylor All Star - The Icon",
+      "description": "Shop the iconic Chuck Taylor All Star sneakers from Converse.",
+      "keywords": ["Converse", "Chuck Taylor", "All Star", "Iconic"]
+    }
+  },
+  {
+    "id": "p8",
+    "name": "Asics Gel-Kayano 28",
+    "slug": "asics-gel-kayano-28",
+    "brand": "Asics",
+    "category": "Shoes",
+    "description": "The GEL-KAYANO 28 shoe creates a stable stride that moves you towards a balanced mindset.",
+    "price": 2599000,
+    "discount": 20,
+    "stock": 60,
+    "rating": 4.9,
+    "thumbnail": "/images/products/asics-gel-1.png",
+    "images": [
+      "/images/products/asics-gel-1.png",
+      "/images/products/asics-gel-2.png",
+      "/images/products/asics-gel-3.png"
+    ],
+    "variants": {
+      "colors": [
+        { "id": "c7", "name": "Electric Blue", "value": "#7DF9FF" },
+        { "id": "c1", "name": "Core Black", "value": "#000000" }
+      ],
+      "sizes": [
+        { "id": "s2", "name": "9", "inStock": true },
+        { "id": "s3", "name": "10", "inStock": true },
+        { "id": "s4", "name": "11", "inStock": false }
+      ]
+    },
+    "seo": {
+      "title": "Asics Gel-Kayano 28 - Stable Running Shoe",
+      "description": "Experience premium stability and comfort with the Asics Gel-Kayano 28 running shoes.",
+      "keywords": ["Asics", "Gel-Kayano", "Running", "Stability"]
+    }
+  }
+]
