@@ -12,8 +12,16 @@
       v-for="item in products"
       :to="`/products/${item.id}`"
       :key="item.id"
+      class="flex"
     >
-      <NuxtImg :src="item.image" :alt="item.name" />
+      <NuxtImg
+        :src="item.image"
+        :alt="item.name"
+        width="300"
+        height="300"
+        loading="lazy"
+        format="webp"
+      />
       <h3>{{ item.name }}</h3>
       <p>{{ formatPrice(item.price) }}</p>
       <button

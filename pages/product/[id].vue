@@ -5,10 +5,14 @@
     <div v-else-if="product" class="space-y-12">
       <div class="grid grid-cols-1 md:grid-cols-2 gap-8 md:gap-12">
         <div class="aspect-square overflow-hidden rounded-lg border">
-          <img
+          <NuxtImg
             :src="product.image || 'https://placehold.co/600x600?text=No+Image'"
             :alt="product.name"
             class="h-full w-full object-cover"
+            width="589"
+            height="589"
+            format="webp"
+            loading="lazy"
           />
         </div>
 

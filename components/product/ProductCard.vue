@@ -118,11 +118,14 @@ onUnmounted(() => {
       aria-label="`Lihat detail untuk ${product.name}`"
     >
       <div class="card-image-wrapper">
-        <img
+        <NuxtImg
           :src="product.image"
           :alt="`Gambar ${product.name}`"
           class="product-image"
+          width="300"
+          height="200"
           loading="lazy"
+          format="webp"
         />
         <span v-if="showDiscount && product.discount" class="discount-badge">
           {{ product.discount }}% OFF

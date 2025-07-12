@@ -18,10 +18,13 @@
             :key="item.cartId"
             class="flex gap-4 items-start border rounded-lg p-4"
           >
-            <img
+            <NuxtImg
               :src="item.image"
               alt="Product image"
-              class="w-24 h-24 object-cover rounded-md border"
+              class="object-cover rounded-md border"
+              width="100"
+              height="100"
+              loading="lazy"
             />
             <div class="space-y-1">
               <h2 class="font-semibold text-lg">{{ item.name }}</h2>
